@@ -15,6 +15,8 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := M2102K1AC
 PRODUCT_NAME := lineage_mars
 
+LINEAGE_CUSTOM_MODEL := Xiaomi_11_Pro
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="mars_global-user 14 UKQ1.240624.001 OS2.0.7.0.UKAMIXM release-keys" \
     BuildFingerprint=Xiaomi/mars_global/mars:14/UKQ1.240624.001/OS2.0.7.0.UKAMIXM:user/release-keys \
