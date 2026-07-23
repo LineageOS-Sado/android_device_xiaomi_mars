@@ -43,6 +43,3 @@ TARGET_RECOVERY_UI_MARGIN_HEIGHT := 165
 
 # Include proprietary files
 include vendor/xiaomi/mars/BoardConfigVendor.mk
-
-# MIUI Camera
-include vendor/xiaomi/mars-miuicamera/products/board.mk

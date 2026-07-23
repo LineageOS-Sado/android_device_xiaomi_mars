@@ -28,6 +28,3 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/mars/mars-vendor.mk)
-
-# MIUI Camera
-$(call inherit-product, vendor/xiaomi/mars-miuicamera/products/miuicamera.mk)
